@@ -1,4 +1,4 @@
-## Due Feb 1: Github Pull Request
+## Due Jan 30: Github Pull Request
 
 1. Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
