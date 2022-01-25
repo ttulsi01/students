@@ -1,0 +1,1 @@
+Hello, my name is Tristan Ainley. I am a super senior (5th year) CS student with a minor in Japanese. I changed majors after my second year but I'm excited to learn about software development and work with a group to create our own application.
