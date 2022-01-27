@@ -5,14 +5,16 @@
 1. [Fork](https://help.github.com/articles/fork-a-repo/) utk-cs340-spring22/students 
         - Start by [**forking** the students repository](https://github.com/utk-cs340-spring22/students)
 1. [**Clone**][ref-clone] the repository to your computer (git clone https://github.com/yourGHid/students)
-1. Introduce yourself via a netid.md file (do not create netid.md, but replace netid by your own netid in all lowercase). Please provide at least 
-one sentence on your background and one sentence on your interests. For example,
+1. Introduce yourself via a netid.md file (do not create netid.md, but replace netid by your own netid in all lowercase). Please provide some information about your on your background and interests. This should be kind of like a mini resume. It does not need all the details of a resume, but it must include the following elements:
+     * The file must be a .md file using markdown format. Do not use embedded html.
+     * Include your name, name you go by (if different), your UT netid, your github username
+     * It must contain at least one header
+     * It must contain at least one list, either ordered or unordered
+     * Include at least one sentence about your background
+     * Include at least one sentence about your interests
+     * Include at least one link to another html page, for example, a link to a page about your hobbies or interests
+     * List some of the computer languages, tools, and frameworks of which you are familiar (such as C/C++, Git, Eclipse, Unity, Make, CSS, etc)
 
-```
-Hello, my name is John Smith. I am currently a junior at UT working on a BS in Computer Science with a minor in Cybersecurity. 
-I hope to learn more about software development and how to work on a project in a real world setting.
-
-```
 1. git add netid.md
 1. git commit -m 'adding my background information'
 
