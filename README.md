@@ -7,7 +7,7 @@
 1. [**Clone**][ref-clone] the repository to your computer (git clone https://github.com/yourGHid/students)
 1. Introduce yourself via a netid.md file (do not create netid.md, but replace netid by your own netid in all lowercase). Please provide some information about your background and interests. This should be kind of like a mini resume. It does not need all the details of a resume, but it must include the following elements:
      * The file must be a .md file using markdown format. Do not use embedded html.
-     * Include your name, name you go by (if different), your UT netid, your github username
+     * Include your name, name you go by (if different), your UT netid, your github username, your major
      * It must contain at least one header
      * It must contain at least one list, either ordered or unordered
      * Include at least one sentence about your background
