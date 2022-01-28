@@ -1,8 +1,8 @@
 ## Richard "Matthew" Rosenbalm
 
-### rrosenb4@vols.utk.edu
+##### rrosenb4@vols.utk.edu
 
-Hello, my name is**Matthew Rosenbalm**. I'm a junior CS major.
+Hello, my name is **Matthew Rosenbalm**. I'm a junior CS major.
 
 I know: 
 > * C 
