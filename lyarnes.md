@@ -1,5 +1,7 @@
 # Lucas Yarnes
 ## Computer Science Major
+**NetID:** lyarnes
+**Githib Username:** lyarnes
 
 Hi! I'm Lucas and some of my interests are as follows:
 
@@ -7,7 +9,7 @@ Hi! I'm Lucas and some of my interests are as follows:
 * Going out with my friends
 * Bowling
 
-I am from [Nashville, Tennessee](https://www.visitmusiccity.com/) and am currently a **sophomore** here at UT. 
+I am from [Nashville, Tennessee](https://www.visitmusiccity.com/) and am currently a sophomore here at UT. 
 
 ## Languages:
 
