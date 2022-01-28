@@ -18,4 +18,4 @@ I'm an ex-physics major who realized physics is a cool application of CS, but th
 - SQL
 - Solidity
 
-Here's my [LinkedIn] (https://www.linkedin.com/in/eli-carter/)
+Here's my [LinkedIn](https://www.linkedin.com/in/eli-carter/)
