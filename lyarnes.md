@@ -1,7 +1,7 @@
 # Lucas Yarnes
 ## Computer Science Major
 **NetID:** lyarnes
-**Githib Username:** lyarnes
+**Github Username:** lyarnes
 
 Hi! I'm Lucas and some of my interests are as follows:
 
