@@ -1,5 +1,7 @@
 # Karen Hughes
-## **NetID:** klee50, **Github:** kare-ren, **Major:** Computer Science
+## Major: Computer Science
+- NetID: klee50
+- Github: kare-ren
 
 ### About Me
 - I am a sophomore/junior studying Computer Science.
