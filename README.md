@@ -1,4 +1,4 @@
-## Due TBD: Github Pull Request
+## Due Feb 2 before midnight: Github Pull Request
 
 1. Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
