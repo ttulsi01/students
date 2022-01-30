@@ -1,6 +1,6 @@
 # Pierluigi Cambie-Fabris (PG)
  * NetID: pcambief
- * Github Username: [pcambief] (https://github.com/pcambief/)
+ * Github Username: [pcambief](https://github.com/pcambief/)
  * Dual Major: Computer Science and Mathematics
  ## Background
 	Hello. My name is Pierluigi Cambie-Fabris, but I go by PG. 
