@@ -1,5 +1,14 @@
-# Skyla Webb info
+# Skyla Webb - Computer Science Major
+## NetID / Github Username (they're the same): swebb37
 
-Hello, my name is Skyla Webb. I am a junior in computer science. I hope to learn
-other languages like python and C#, but I mostly only know C and C++. My goal in 
-CS is to eventually create video games.
+## Known Languages
+* C
+* C++
+* Some C#
+
+I hope to learn other languages like python and C#. My goal in 
+CS is to eventually create video games, but I'll probably just end 
+up working with data or something. I am interested in video
+games, reading, video essays, exercise, and becoming better at programming.
+
+## A fun choose your own adventure [website](chooseyourstory.com)
