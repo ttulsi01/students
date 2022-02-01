@@ -1,11 +1,10 @@
 # Intro
 
-** - NAME: **  Andrew Mueller
+- Name: Andrew M.
 
-** - NETID: ** amuell11
+- netID: Amuell11
 
-** - MAJOR: ** Computer Science
+- git user: AndyM1098
 
-** - gitusr: ** AndyM1098
-
+- major: Computer Science
 
