@@ -1,4 +1,4 @@
-#Samara (Sam) Buchanan
+# Samara (Sam) Buchanan
 Netid: sbucha11
 GitHub Username: SamaraBuchanan
 Major: Computer Science
