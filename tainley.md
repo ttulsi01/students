@@ -1,1 +1,16 @@
-Hello, my name is Tristan Ainley. I am a super senior (5th year) CS student with a minor in Japanese. I changed majors after my second year but I'm excited to learn about software development and work with a group to create our own application.
+# Tristan Ainley 
+
+## Info:
+    NetID: tainley
+    Github: tristan-ainley (https://github.com/tristan-ainley)
+    Major: Computer Science 
+    Minor: Japanese Minor
+
+## Background:
+    I am currently a super senior (5th year) in Computer Science and I am from the southern Nashville area. I currently work part-time at Hologram Electronics as a Logistics Specialist. 
+
+## Interests:
+    My hobbies are reading, writing novels, and video games. Last year, thanks to COVID, I was able to read over 100 novels.
+
+## Skills
+    Proficient with C, C++, Python.
