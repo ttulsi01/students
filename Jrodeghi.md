@@ -1,7 +1,7 @@
-#Joel Rodeghiero
-#Netid: Jrodeghi
-#Github: JRodeghi
-##About me
+# Joel Rodeghiero
+# Netid: Jrodeghi
+# Github: JRodeghi
+## About me
 * I am a 4th year comptuer science student.
 * I like to build rockets and have my level 2 High power rocketry certification.
 * I am interested in cybersicurity and cryptography.
