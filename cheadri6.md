@@ -13,10 +13,10 @@ I have a background in hobbyist video game design, and various C++ projects.
 ## Relevant experience
 
 Programming Languages:
-+C
-+C++
-+C#
-+SQL
++ C
++ C++
++ C#
++ SQL
 
 ## Interests
 
