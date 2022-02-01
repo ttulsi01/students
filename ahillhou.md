@@ -7,7 +7,7 @@
 ## Background
 
 	I am a senior at UTK majoring in computer science.
-	I enjoy sitting at home and doing nothing and occasionally [biking](https://en.wikipedia.org/wiki/Road_cycling).
+	I enjoy sitting at home and doing nothing and occasionally [biking](https://www.roadbikerider.com/road-biking-101-a-beginners-guide/).
 
 ## Skills
 
