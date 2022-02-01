@@ -1,10 +1,13 @@
 # Intro
 
-- Name: Andrew M.
+- **Name**: Andrew M.
 
-- netID: Amuell11
+- **NetID**: Amuell11
 
-- git user: AndyM1098
+- **git user**: AndyM1098
 
-- major: Computer Science
+- **Major**: Computer Science
 
+## Background
+
+-
