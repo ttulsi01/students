@@ -13,12 +13,12 @@ centric hobbies such as reading/writing, video games, algorithm-based puzzles (i
 Rubik's cubes, wooden puzzles, etc.) and media critique. 
 
 Languages/Skills:
-*C++/C
-*Python
-*Git/GitHub
-*Java
-*Jenkins/Groovy
-*Docker
+* C++/C
+* Python
+* Git/GitHub
+* Java
+* Jenkins/Groovy
+* Docker
 
 http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
 
