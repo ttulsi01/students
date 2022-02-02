@@ -1,6 +1,7 @@
 # **Blaine Liuag**
 
-### UT NetId: bliuag	 Github I use for school: BlaineLiuag
+### UT NetId: bliuag
+### Github I use for school: BlaineLiuag
 ### Major: Computer Science
 ### Email/Primary Contact: bliuag@vols.utk.edu
 
