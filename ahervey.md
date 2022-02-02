@@ -1,4 +1,4 @@
-<h1>Background Info about Me/h1>
+<h1>Background Info about Me</h1>
 
 Name: Aaron Hervey; Preferred Name: AJ
 NetID: ahervey
