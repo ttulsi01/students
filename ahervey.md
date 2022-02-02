@@ -1,6 +1,6 @@
 <h1>Background Info about Me</h1>
 
--Name: Aaron Hervey; Preferred Name: AJ-
+- Name: Aaron Hervey; Preferred Name: AJ
 *NetID: ahervey
 *Github Username: Lullabi
 *Major: Computer Science
