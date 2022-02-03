@@ -20,7 +20,7 @@
 
 # Link
 
-- [Link To A Website]((https://link-url-here.org)
+- [Link To A Website](https://link-url-here.org)
 - It is a link to leetcode.com, Something that I do in my spare time. 
 
 # Programming arsenal
