@@ -10,7 +10,7 @@
 
 ## Background
 
-- I grew up in NYC since 2020, where my family moved down to Knoxville. I transffered to UTK as a computer science major. 
+- I have lived in NYC up until 2021, where my family moved down to Knoxville. I transffered to UTK as a computer science major. I have had an interest in computers every since I was young, so that is probably why I am pursing computer science, and I have to say, I am liking it a lot(so far)... 
 
 ## Interests
 
@@ -23,7 +23,7 @@
 - [Link To A Website]((https://link-url-here.org)
 - It is a link to leetcode.com, Something that I do in my spare time. 
 
-# Programming aresnal
+# Programming arsenal
 
 1. C++ / C
 2. HTML/CSS
