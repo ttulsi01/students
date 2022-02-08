@@ -1,4 +1,4 @@
-#Nik Bergman Background Info
+# Nik Bergman Background Info
 - NetID: nbergman
 - Github: nikbergman42
 - Major: Computer Science
