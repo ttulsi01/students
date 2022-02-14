@@ -1,10 +1,10 @@
 # Painting App Idea
 
-## Members
-* Skyla Webb
-* Jonathan Ward
-* Jiawei Wu (Leo)
-* Payton Creech (Chaz)
+## Members / github IDs
+* Skyla Webb / swebb37
+* Jonathan Ward / jward67
+* Jiawei Wu (Leo) / leoked
+* Payton Creech (Chaz) / lullabi
 * Aaron (AJ)
 
 ## The idea
