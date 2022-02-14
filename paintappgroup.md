@@ -7,6 +7,8 @@
 * Payton Creech (Chaz) / lullabi
 * Aaron (AJ)
 
+## GROUP IS FULL
+
 ## The idea
 
 ## Summary: 
